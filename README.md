@@ -20,8 +20,5 @@ Ask a question in the chat window.
 
 The chatbot responds instantly with an answer.
 
-Author
-
-👤 Bilal Saeed
-
-🌐 GitHub Profile
+## Author
+Built by [Bilal Saeed](https://github.com/BilalSaeed1234) as part of an AI projects portfolio.
